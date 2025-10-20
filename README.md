@@ -1522,9 +1522,10 @@ Apache Kafka — реализует архитектурную концепци�
 1. Статья - [Учимся готовить кроликов с редиской](https://infostart.ru/1c/articles/1234830/)
 2. Статья - [RabbitMQ + Конвертация Данных 3.0](https://infostart.ru/1c/articles/692798/)
 3. Статья - [1c + kafka.apache](https://infostart.ru/1c/articles/990211/)
-4. Статья - [Apache Kafka: Основы технологии](https://habr.com/ru/company/southbridge/blog/550934/)
-5. Статья - [RabbitMQ или Apache Kafka](https://zen.yandex.ru/media/mcs/rabbitmq-ili-apache-kafka-kakoi-broker-soobscenii-podoidet-dlia-vashego-proekta-601d6fab86f4e22208be5ff6)
-6. Статья - [RabbitMQ против Kafka](https://habr.com/ru/companies/itsumma/articles/416629/)
+4. Статья - [Kafka для начинающих: откуда такой спрос и зачем нужна эта технология](https://habr.com/ru/articles/957824/)
+5. Статья - [Apache Kafka: Основы технологии](https://habr.com/ru/company/southbridge/blog/550934/)
+6. Статья - [RabbitMQ или Apache Kafka](https://zen.yandex.ru/media/mcs/rabbitmq-ili-apache-kafka-kakoi-broker-soobscenii-podoidet-dlia-vashego-proekta-601d6fab86f4e22208be5ff6)
+7. Статья - [RabbitMQ против Kafka](https://habr.com/ru/companies/itsumma/articles/416629/)
 
 **Подробнее:**
 
